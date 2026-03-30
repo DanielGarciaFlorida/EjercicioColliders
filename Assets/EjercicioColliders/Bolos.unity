@@ -1478,7 +1478,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 584d6051600331c4680141d37a25b584, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bola
-  fuerza: 500
+  fuerza: 400
   rotacion: 100
   limiteCaida: -5
 --- !u!54 &1435328738
@@ -1489,7 +1489,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1435328732}
   serializedVersion: 5
-  m_Mass: 1
+  m_Mass: 40
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
